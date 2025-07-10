@@ -1,0 +1,5 @@
+{
+  "name": "Fi Money - AI Financial Agent",
+  "description": "An AI-powered agent using Fi’s MCP Server and Gemini to deliver deeply personalized financial insights to users in a secure, private, and intelligent way.",
+  "requestFramePermissions": []
+}
