@@ -2,6 +2,8 @@
 
 This contains everything you need to run your app locally.
 
+For further information and understanding of the project, please refer to the PDF file.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
